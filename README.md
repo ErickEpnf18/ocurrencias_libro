@@ -1,4 +1,4 @@
-# ocurrencias de un archivo de texto
+# Ocurrencias de un archivo de texto
 ### Bienvenido a mi proyecto este es un trabajo que consiste en la busqueda
 ### de palabras en un archivo de texto
 |------------> | libro de Harry Potter      | <-------------- |
